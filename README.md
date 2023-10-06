@@ -1,2 +1,2 @@
 # ProductsNodeApp
-App with MongoDb and Node
+CRUD App with Node.js and MongoDB.
